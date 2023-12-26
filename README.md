@@ -1,2 +1,2 @@
-# Flower-Classification
+# Flower-Image-Classification
 Using CNN
